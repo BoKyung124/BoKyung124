@@ -15,10 +15,10 @@
 <p align="center">
 <a href="https://gnuykob.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-F6F6F6?style=flat-square&logo=Tistory&logoColor=black"/></a> <a href="https://www.instagram.com/gnuykob_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="leebk1124@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D9E5FF?style=flat-square&logo=Gmail&logoColor=EA4335"/></a></p>
 
-
+<!-- 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoKyung124)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoKyung124&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoKyung124&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
