@@ -3,9 +3,9 @@
 <div align="center">
 
 ## About Me🖐️
-### SMWU SW Convergence & Statistics
+### 🏫 SMWU SW Convergence & Statistics
 
-Interested in Database, Bigdata Processing, and ML
+💡 Interested in Database, Bigdata Processing, and Data Engineering
 
 <br>
 
