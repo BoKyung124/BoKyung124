@@ -43,6 +43,7 @@
 <br>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> 
 <img src="https://img.shields.io/badge/SAS-0072C6?style=flat-square&logo=SAS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 
 <br>
 
