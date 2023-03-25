@@ -22,8 +22,6 @@
 
 ## 💻Studying💻
 
-<br>
-
 ### Currently Interested
 
 <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=white"/>
