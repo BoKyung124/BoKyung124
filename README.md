@@ -20,7 +20,7 @@
 
 <div align="center">
 
-## 💻Studying💻
+## 💻 Studying 💻
 
 ### Currently Interested
 
