@@ -51,10 +51,11 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google%20Colab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Elipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
 
 <br>
 
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Conda Forge-000000?style=flat-square&logo=Conda-Forge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudera-F96702?style=flat-square&logo=Cloudera&logoColor=white"/>
