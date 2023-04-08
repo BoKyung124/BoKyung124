@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFB9B9&&height=300&section=header&text=Bokyung%20Lee&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFB9B9&&height=200&section=header&text=Bokyung%20Lee&fontSize=50)
 
 <div align="center">
 
@@ -68,7 +68,6 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoKyung124)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoKyung124&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
