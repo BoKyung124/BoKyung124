@@ -5,7 +5,7 @@
 ## About Me🖐️
 ### 🏫 SMWU SW Convergence & Statistics
 
-💡 Interested in _Database, Bigdata Processing, and Data Engineering_   
+💡 Interested in _Database, Bigdata Processing_, and _Data Engineering_   
 📝 Have a **SQLD** certificate
  
 <br>
