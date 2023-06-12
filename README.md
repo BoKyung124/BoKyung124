@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFB9B9&&height=200&section=header&text=Bokyung%20Lee&fontSize=50)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=FFB9B9&&height=200&section=header&text=Bokyung%20Lee&fontSize=50) -->
 
 <div align="center">
 
