@@ -26,7 +26,7 @@
 
 |기간|활동명|주제|비고|
 |---|---|---|---|
-|2022|GDSC Solution Challenge|채식 장려 앱 <Better> 개발|프론트엔드 팀원|
+|2022|GDSC Solution Challenge|채식 장려 안드로이드 앱 'Better' 개발|프론트엔드 팀원|
 |2022|이브와 ICT 멘토링|빅데이터 수집을 위한 Kafka Adapter 어플리케이션 개발|팀원|
 |2022|BITAmin|머신러닝 딥러닝 연합동아리|운영진|
 |2022-2023|숙명여대 데이터분석 동아리 DACOS|HADOOP, Raspberrypi 스터디 및 프로젝트|운영진|
