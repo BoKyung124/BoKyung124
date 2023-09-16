@@ -26,16 +26,16 @@
 
 |기간|활동명|주제|비고|Github|
 |---|---|---|---|---|
-|2022|GDSC Solution Challenge|채식 장려 안드로이드 앱 'Better' 개발|프론트엔드|[Better](https://github.com/bokyung124/30_Better)|
-|2022|이브와 ICT 멘토링|빅데이터 수집을 위한 Kafka Adapter 어플리케이션 개발|팀원|[ICT Kafka](https://github.com/bokyung124/ICT_Kafka)|
-|2022|빅데이터 연합동아리 BITAmin 9기|머신러닝,딥러닝 학습 / 추천시스템 프로젝트|운영진|[Study](https://github.com/bokyung124/BITAmin) [Project](https://github.com/bokyung124/bitamin-conference)|
-|2022-2023|숙명여대 데이터분석 동아리 DACOS 1기|HADOOP, Raspberrypi 스터디 및 프로젝트|운영진|[Study](https://github.com/bokyung124/hadoop-pilot-pjt) [Project](https://github.com/bokyung124/hadoop_raspberrypi)|
-|2023|숙명여대 SW중심대학 산학협력연구단|대용량 정형 데이터 대상 개인정보 가명.익명화를 위한 자동처리 기술|Mapreduce - join 연산 구현|
-|2023|ICT 스마트 해상물류 멘토링 프로젝트|딥러닝을 활용한 컨테이너 물동량 예측|팀장|[ICT DL](https://github.com/bokyung124/ICT_DL)|
-|2023|Naver AI 코칭스터디 10기|<Beyond AI Basic 2023>|Lead Booster|[BoostCource](https://github.com/bokyung124/BoostCourse-Beyond-AI)|
-|2023|한국과학기술정보연구원 GSDC 데이터 컴퓨팅 스쿨|HTCondor 활용한 분산 처리 학습|팀장|[GSDC HTCondor](https://github.com/bokyung124/GSDC_HTCondor)|
-|2023|모두의 연구소 풀잎스쿨 <쿠버네티스 스터디>|Docker, AWS, K8s, ES 스터디|연구원|[Cloud](https://github.com/bokyung124/infra-study)|
-|2023|Comento 직무 부트캠프 <데이터 엔지니어의 모든 실무 유형과 취업전략>|SQL 직무 관련 실습||[Comento SQL](https://github.com/bokyung124/comento_DB)|
+|2022|GDSC Solution Challenge|채식 장려 안드로이드 앱 'Better' 개발|프론트엔드|[Android](https://github.com/bokyung124/30_Better)|
+|2022|이브와 ICT 멘토링|빅데이터 수집을 위한 Kafka Adapter 어플리케이션 개발|팀원|[Kafka](https://github.com/bokyung124/ICT_Kafka)|
+|2022|빅데이터 연합동아리 BITAmin 9기|머신러닝,딥러닝 학습 / 추천시스템 프로젝트|운영진|[Study](https://github.com/bokyung124/BITAmin)</br>[Project](https://github.com/bokyung124/bitamin-conference)|
+|2022-2023|숙명여대 데이터분석 동아리 DACOS 1기|HADOOP, Raspberrypi 스터디 및 프로젝트|운영진|[Study](https://github.com/bokyung124/hadoop-pilot-pjt)</br>[Project](https://github.com/bokyung124/hadoop_raspberrypi)|
+|2023|숙명여대 SW중심대학 산학협력연구단|대용량 정형 데이터 대상 개인정보 가명.익명화를 위한 자동처리 기술|Mapreduce - join 연산 구현||
+|2023|ICT 스마트 해상물류 멘토링 프로젝트|딥러닝을 활용한 컨테이너 물동량 예측|팀장|[DL](https://github.com/bokyung124/ICT_DL)|
+|2023|Naver AI 코칭스터디 10기|<Beyond AI Basic 2023>|Lead Booster|[DataScience](https://github.com/bokyung124/BoostCourse-Beyond-AI)|
+|2023|한국과학기술정보연구원 GSDC 데이터 컴퓨팅 스쿨|HTCondor 활용한 분산 처리 학습|팀장|[HTCondor](https://github.com/bokyung124/GSDC_HTCondor)|
+|2023|모두의 연구소 풀잎스쿨 <쿠버네티스 스터디>|Docker, AWS, K8s, ES 스터디|연구원|[Infra](https://github.com/bokyung124/infra-study)|
+|2023|Comento 직무 부트캠프 <데이터 엔지니어의 모든 실무 유형과 취업전략>|SQL 직무 관련 실습||[SQL](https://github.com/bokyung124/comento_DB)|
 
 <br>
 
