@@ -36,7 +36,7 @@
 |2023|Comento 직무 부트캠프 <데이터 엔지니어의 모든 실무 유형과 취업전략>|SQL 직무 관련 실습||[SQL](https://github.com/bokyung124/comento_DB)|
 |2023|숙명여대 SW중심대학 산학협력연구단|대용량 정형 데이터 대상 개인정보 가명.익명화를 위한 자동처리 기술|Mapreduce - join 연산 구현|[MapReduce](https://github.com/bokyung124/MapReduce_Join)|
 |2023|ICT 스마트 해상물류 멘토링 프로젝트|딥러닝을 활용한 컨테이너 물동량 예측|팀장|[DL](https://github.com/bokyung124/ICT_DL)|
-|2023-2024|KDT 프로그래머스 데이터 엔지니어링 데브코스 2기|Python, DW, Hadoop, Airflow||[TIL](https://bokyung124.github.io/categories.html#h-Data%20Engineering)|
+|2023-2024|KDT 프로그래머스 데이터 엔지니어링 데브코스 2기|Python, DW, Hadoop, Airflow||[TIL](https://bokyung124.github.io/categories.html#h-Data%20Engineering)<br>[Project1](https://github.com/bokyung124/tech_dashboard/tree/main)|
 
 <br>
 
@@ -67,6 +67,7 @@
 
 <br>
 
+<!--
 ### Python Libraries
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
@@ -75,6 +76,7 @@
 <img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"/>
+-->
 
 <br>
 
