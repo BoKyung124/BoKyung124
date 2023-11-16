@@ -22,6 +22,28 @@
 
 <div align="center">
 
+## Currently Interested 💻
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache%20kafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google BigQuery-669DF6?style=flat-square&logo=Google%20BigQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
 ## Activities🤍
 
 |기간|활동명|주제|비고|Github|
@@ -38,6 +60,8 @@
 |2023|ICT 스마트 해상물류 멘토링 프로젝트|딥러닝을 활용한 컨테이너 물동량 예측|팀장|[DL](https://github.com/bokyung124/ICT_DL)|
 |2023-2024|KDT 프로그래머스 데이터 엔지니어링 데브코스 2기|Python, DW, Hadoop, Airflow||[TIL](https://bokyung124.github.io/categories.html#h-Data%20Engineering)<br>[Project1](https://github.com/bokyung124/tech_dashboard/tree/main)|
 
+<!--
+
 <br>
 
 <div align="center">
@@ -46,13 +70,23 @@
 
 ### Currently Interested
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache%20kafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google BigQuery-669DF6?style=flat-square&logo=Google%20BigQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+
 
 <br>
+
 
 ### Languages
 
@@ -67,7 +101,7 @@
 
 <br>
 
-<!--
+
 ### Python Libraries
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
@@ -76,7 +110,7 @@
 <img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"/>
--->
+
 
 <br>
 
@@ -98,6 +132,8 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+
+-->
 
 
 <!--
