@@ -37,8 +37,15 @@
 <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache%20kafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google BigQuery-669DF6?style=flat-square&logo=Google%20BigQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google BigQuery-669DF6?style=flat-square&logo=Google%20BigQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+
 
 </div>
 
