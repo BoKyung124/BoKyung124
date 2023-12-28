@@ -15,8 +15,8 @@
 ### Contact
 <a href="mailto:leebk1124@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://bokyung124.github.io"><img src="https://img.shields.io/badge/GitHub%20Blog-696969?style=flat-square&logo=Github&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/bokyung124/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> 
 <a href="https://gnuykob.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<a href="https://www.instagram.com/gnuykob_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
 
 </div>
 
