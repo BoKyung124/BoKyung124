@@ -3,7 +3,7 @@
 <div align="center">
 
 ## About Me🖐️
-### 🏫 SMWU SW Convergence & Statistics & BigData(COSS)
+### 🏫 SMWU SW Convergence & BigData(COSS)
 
 💡 Interested in _Database, Bigdata Processing_, and _Data Engineering_   
 📝 Have a **SQLD** certificate
