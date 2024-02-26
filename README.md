@@ -7,6 +7,7 @@
 
 💡 Interested in _Database, Bigdata Processing_, and _Data Engineering_   
 📝 Have a **SQLD** certificate
+💻 Working as a data engineer intern at Metric Studio Inc. (NNT)
 
 <br>
 
