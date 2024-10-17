@@ -6,8 +6,8 @@
 ### 🏫 SMWU SW Convergence & BigData(COSS)
 
 💡 Interested in _Database, Bigdata Processing_, and _Data Engineering_   
-📝 Have a **SQLD** certificate         
-💻 Working as a _data engineer_ at Metric Studio Inc. (NNT)
+📝 Have a **SQLD**, **Engineer Information Processing** certificate         
+💻 Working as a **data engineer** at Metric Studio Inc. (NNT)
 
 <br>
 
