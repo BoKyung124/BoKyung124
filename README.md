@@ -3,11 +3,11 @@
 <div align="center">
 
 ## About Me🖐️
-### 🏫 SMWU SW Convergence & BigData(COSS)
+### 💻 Data Engineer at Metric Studio Inc. (NNT Tech)
 
 💡 Interested in _Database, Bigdata Processing_, and _Data Engineering_   
 📝 Have a **SQLD**, **정보처리기사** certificate         
-💻 Working as a **data engineer** at Metric Studio Inc. (NNT Tech)
+🏫 Graduated from Sookmyung Women's University, Software Convergence Major
 
 <br>
 
